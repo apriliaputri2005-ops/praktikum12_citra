@@ -28,4 +28,19 @@ Pastikan file gambar (becak.jpeg, batik.jpg, motor hijau.jpg, motor hitam.jpg) b
 
 Jalankan masing-masing skrip Python melalui terminal VS Code.
 
+### Hasil Praktek 
+
+Hasil Pencocokan 
+
+***Hasil Fitur ORB***
+![foto](https://github.com/apriliaputri2005-ops/praktikum12_citra/blob/9dcbf6672eeac96a0a788ad9f5269aa467c0bb29/praktikum_12/motor%20hijau%20vs%20motor%20hitam.png)
+
+***Hasil Sift***
+![foto](https://github.com/apriliaputri2005-ops/praktikum12_citra/blob/9dcbf6672eeac96a0a788ad9f5269aa467c0bb29/praktikum_12/sensor%20becak.png)
+
+***Canny Edge Detection***
+![foto](https://github.com/apriliaputri2005-ops/praktikum12_citra/blob/9dcbf6672eeac96a0a788ad9f5269aa467c0bb29/praktikum_12/Hasil%20Photo%20batik.png)
+
+***Canny Edges Detection***
+![foto](https://github.com/apriliaputri2005-ops/praktikum12_citra/blob/9dcbf6672eeac96a0a788ad9f5269aa467c0bb29/praktikum_12/becak.png)
 
