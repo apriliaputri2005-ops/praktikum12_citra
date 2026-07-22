@@ -44,3 +44,5 @@ Hasil Pencocokan
 ***Canny Edges Detection***
 ![foto](https://github.com/apriliaputri2005-ops/praktikum12_citra/blob/9dcbf6672eeac96a0a788ad9f5269aa467c0bb29/praktikum_12/becak.png)
 
+***LBP texture***
+![foto](https://github.com/apriliaputri2005-ops/praktikum12_citra/blob/e58ff7aea286a71a7ad1e4ebff4c99d33b36e141/praktikum_12/LBP%20teksture.png)
